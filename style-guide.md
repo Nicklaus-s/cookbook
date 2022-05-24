@@ -4,7 +4,7 @@ This guide is adopted from [Roblox's Lua Style Guide](https://roblox.github.io/l
 ## Principles
 - Code should be optimized for reading, not writing.
 	- You write your code once. Multiple people may need to read your code, even you.
-- Tab sizing should generally be small, generally only 4.
+- Tab sizing should generally be small, generally only 2.
 	- You should not use spaces for indentation, and instead use tabs.
 - Write using [pascal case](https://www.theserverside.com/definition/Pascal-case).
 	- All statements should be wrote using pascal case, regardless of use.
