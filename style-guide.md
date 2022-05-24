@@ -12,4 +12,4 @@ This guide is adopted from [Roblox's Lua Style Guide](https://roblox.github.io/l
 - Program
 
 ## Require
-- All `require` calls should be at the beginning of a file, maintaining [file structure]() accordingly.
+- All `require` calls should be at the beginning of a file, maintaining [file structure](#file-structure) accordingly.
